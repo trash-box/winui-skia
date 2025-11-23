@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="200" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+  <rect x="50" y="50" width="80" height="100" fill="#e74c3c" />
+  <rect x="150" y="50" width="80" height="100" fill="#3498db" />
+  <circle cx="90" cy="80" r="20" fill="#f39c12" />
+  <circle cx="190" cy="80" r="20" fill="#2ecc71" />
+  <polygon points="90,120 70,150 110,150" fill="#9b59b6" />
+  <polygon points="190,120 170,150 210,150" fill="#1abc9c" />
+</svg>

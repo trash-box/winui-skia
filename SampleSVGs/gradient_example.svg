@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="300" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+  <defs>
+    <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9b59b6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="300" fill="url(#gradient1)" />
+  <circle cx="150" cy="150" r="80" fill="white" opacity="0.3" />
+  <circle cx="150" cy="150" r="60" fill="white" opacity="0.3" />
+  <circle cx="150" cy="150" r="40" fill="white" opacity="0.3" />
+  <text x="150" y="160" font-size="30" text-anchor="middle" fill="white" font-family="Arial" font-weight="bold">Gradient</text>
+</svg>
